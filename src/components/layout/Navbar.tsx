@@ -19,9 +19,6 @@ export function Navbar() {
         </div>
         <div className="hidden md:flex items-center gap-8 text-sm uppercase tracking-widest font-medium">
           <a href="#expertise" className="hover:text-primary transition-colors">Expertise</a>
-          <a href="#methode" className="hover:text-primary transition-colors">Méthode</a>
-          <a href="#engagements" className="hover:text-primary transition-colors">Engagements</a>
-          <a href="#contact" className="austere-button text-xs py-2 px-6">Contact</a>
         </div>
       </div>
     </nav>
