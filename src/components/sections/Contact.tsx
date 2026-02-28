@@ -72,7 +72,7 @@ export function Contact() {
                 onChange={(e) => setFormData({...formData, email: e.target.value})}
                 className="w-full bg-transparent border-b border-white/10 py-2 focus:border-primary transition-colors outline-none"
               />
-            </div>
+            </div>F
             <div className="space-y-2">
               <label className="text-xs uppercase tracking-widest font-medium text-muted-foreground">Téléphone</label>
               <input 
